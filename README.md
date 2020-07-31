@@ -9,5 +9,5 @@
             https://www.bombitup.net/privacy_policy.html
 
 ## Developer             
-    Github1- https://github.com/8140171224?tab=repositories
-    Github2= https://github.com/aakashpadhiyar?tab=repositories
+Github1- ![link](https://github.com/8140171224?tab=repositories)
+Github2- ![link](https://github.com/aakashpadhiyar?tab=repositories)
