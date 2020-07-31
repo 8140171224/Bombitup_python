@@ -93,7 +93,7 @@ def goibibo(number):
 def hotstar(number):
     driver.get('https://www.hotstar.com/in/subscribe/sign-in')
     num_inp = driver.find_element_by_xpath('//*[@id="phoneNo"]')
-    num_inp.send_keys('8200024330')
+    num_inp.send_keys(number)
     sub = driver.find_element_by_class_name('submit-button')
     sub.click()
     sleep(1)
