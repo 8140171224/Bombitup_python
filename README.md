@@ -7,3 +7,7 @@
 
 ## Privacy Policy
             https://www.bombitup.net/privacy_policy.html
+
+## Developer             
+    Github1- https://github.com/8140171224?tab=repositories
+    Github2= https://github.com/aakashpadhiyar?tab=repositories
